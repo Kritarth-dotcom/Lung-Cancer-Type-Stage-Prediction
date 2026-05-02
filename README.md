@@ -31,11 +31,6 @@ Stage Classification Head
 
 This allows simultaneous prediction of both cancer type and stage from the same feature representation.
 
-📂 Project Structure
-├── app.py                      # Streamlit application :contentReference[oaicite:3]{index=3}
-├── report.ipynb               # Model training / analysis notebook
-├── lung_cancer_stage_model_best.pth  # Trained model checkpoint
-├── README.md                  # Project documentation
 🧪 Supported Classes
 Cancer Types (Canonical)
 Normal
@@ -49,13 +44,6 @@ Stage 0 (Normal)
 Stage I
 Stage II
 Stage III/IV
-⚙️ Installation
-1. Clone the repository
-git clone https://github.com/your-username/lung-cancer-detection.git
-cd lung-cancer-detection
-2. Install dependencies
-pip install -r requirements.txt
-3. Add model checkpoint
 
 Place your trained model file:
 
