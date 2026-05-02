@@ -1,4 +1,4 @@
-🫁 Lung Cancer Type & Stage Prediction
+**🫁 Lung Cancer Type & Stage Prediction**
 
 A deep learning-based web application that predicts lung cancer type and stage from chest CT scan images using a dual-head CNN architecture.
 
